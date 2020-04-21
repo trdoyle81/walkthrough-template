@@ -10,8 +10,9 @@
 * link:https://blog.openshift.com/[Openshift Blog, window="_blank"]
 ****
 
-[time=5]
-== Task Title
+[time=12]
+== Doing the first task
+// Testing INTLY-6918
 
 // Subtasks are not required. 
 // For simple walkthroughs, create your procedure under tasks.
@@ -19,8 +20,9 @@
 
 === Subtask Title
 
-. Do first step.
-. Do second step.
+. First step
+. Second step
+. Third step
 
 [type=verification]
 ====
