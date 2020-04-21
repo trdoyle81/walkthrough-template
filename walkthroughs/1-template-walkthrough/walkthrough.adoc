@@ -31,3 +31,9 @@ Did it work?
 
 [type=verificationFail]
 Try the steps again. If it's still not working contact your administrator.
+
+[type=walkthroughResource,serviceName=openshift]
+.OpenShift
+****
+* link:{openshift-host}[Openshift Console, window="_blank"]
+****
