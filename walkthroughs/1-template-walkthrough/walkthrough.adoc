@@ -37,3 +37,10 @@ Try the steps again. If it's still not working contact your administrator.
 ****
 * link:{openshift-host}[Openshift Console, window="_blank"]
 ****
+
+[type=taskResource]
+.Useful links
+****
+* link:https://google.com[Task related link]
+****
+
