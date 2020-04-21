@@ -1,4 +1,4 @@
-= Template Walkthrough
+= My first Solution Patters
 
 // This is a template meant to be used as a starting point for walkthrough development
 
