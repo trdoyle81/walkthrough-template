@@ -29,8 +29,11 @@
 Did it work?
 ====
 
+[type=verification]
+Check that the dashboard of service X reports no errors.
+
 [type=verificationFail]
-Try the steps again. If it's still not working contact your administrator.
+Try turning it off and on again.
 
 [type=walkthroughResource,serviceName=openshift]
 .OpenShift
