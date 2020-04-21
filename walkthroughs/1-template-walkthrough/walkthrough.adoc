@@ -35,6 +35,8 @@ Check that the dashboard of service X reports no errors.
 [type=verificationFail]
 Try turning it off and on again.
 
+. Log in to the link:{openshift-url}[Red Hat OpenShift Console]
+
 [type=walkthroughResource,serviceName=openshift]
 .OpenShift
 ****
